@@ -1,3 +1,3 @@
 # Fuzzing
 
-Payloads & Rescources to Assist in Web Application Testing. 
+Payloads & Resources to Assist in Web Application Testing. 
