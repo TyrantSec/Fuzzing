@@ -1,4 +1,4 @@
-Nearly 9,000 XSS Payloads/FilterEvasionTags.
+Nearly 13000 XSS Payloads/FilterEvasionTags.
 I got these over the years from different Sources and I put them together to create a huge Fuzz list. Enjoy! :D
 
 Payloads/FilterEvasionTags:
